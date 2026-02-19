@@ -46,9 +46,9 @@ You can set your OpenRouter API key via the main menu:
 Or manually edit the config file:
 ```
 {
-  "api_key": "YOUR_GEMINI_API_KEY",
-  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/v1",
-  "model": "gemini-1.5-flash",
+  "api_key": "YOUR_APIKEY_OPENROUTER",
+  "base_url": "https://openrouter.ai/api/v1",
+  "model": "deepseek/deepseek-chat-v3-0324:free",
   "language": "English"
 }
 ```
