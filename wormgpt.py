@@ -76,7 +76,7 @@ def banner():
         print(f"{colors.bright_red}WormGPT{colors.reset}")
     print(f"{colors.bright_red}WormGPT CLI{colors.reset}")
     print(f"{colors.bright_cyan}Deepseek API | {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}{colors.reset}")
-    print(f"{colors.bright_cyan}Made With Love <3 {colors.bright_red}t.me/+vLITdQm21AFkNGY1{colors.reset}- {colors.bright_red}t.me/syntax404errorrr\n")
+    print(f"{colors.bright_cyan}Made With Love <3 {colors.bright_red}t.me/syntax404errorrr\n")
 
 def clear_screen():
     os.system("cls" if platform.system() == "Windows" else "clear")
