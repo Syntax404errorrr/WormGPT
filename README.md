@@ -64,7 +64,7 @@ python3 wormgpt.py
 ```
 [ Main Menu ]
 1. Language: English
-2. Model: WormGPT
+2. Model: gemini-1.5-flash
 3. Set API Key
 4. Start Chat
 5. Exit
