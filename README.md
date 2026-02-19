@@ -2,7 +2,7 @@
 
 **WormGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, and customizable settings — all in a terminal-friendly format.
 
-> ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by [@hexsecteam](https://github.com/hexsecteam)
+> ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by Syntax404errorrr(https://github.com/Syntax404errorrr)
 
 ---
 
@@ -83,10 +83,3 @@ meta-llama/llama-3-8b-instruct:nitro
 ### 📷 Example Screenshot
 ![WormGPT CLI Example](assets/example.jpg)
 
-## 👨‍💻 Author
-
-GitHub: @hexsecteam
-
-Telegram: t.me/hexsec_tools 
-
-Project URL: https://github.com/hexsecteam/worm-gpt
