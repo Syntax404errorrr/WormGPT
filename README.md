@@ -22,7 +22,7 @@
 
 - Python 3.6+
 - `pip` installed
-- OpenRouter API key ([get one here](https://openrouter.ai/))
+- Deepseek API key ([get one here](https://platform.deepseek.com/))
 
 ---
 
@@ -32,7 +32,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/hexsecteam/worm-gpt
-cd worm-gpt
+cd WormGPT
 python3 wormgpt.py
 ```
 
