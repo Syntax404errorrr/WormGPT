@@ -47,8 +47,8 @@ Or manually edit the config file:
 ```
 {
   "api_key": "YOUR_GEMINI_API_KEY",
-  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
-  "model": "gemini-3-flash-preview",
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+  "model": "gemini-1.5-flash",
   "language": "English"
 }
 ```
@@ -64,7 +64,7 @@ python3 wormgpt.py
 ```
 [ Main Menu ]
 1. Language: English
-2. Model: gemini-3-flash-preview
+2. Model: WormGPT
 3. Set API Key
 4. Start Chat
 5. Exit
