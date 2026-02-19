@@ -44,7 +44,7 @@ class colors:
 CONFIG_FILE = "wormgpt_config.json"
 PROMPT_FILE = "system-prompt.txt"  # 🧩 Local system prompt file
 DEFAULT_API_KEY = ""
-DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai"
+DEFAULT_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/v1"
 DEFAULT_MODEL = "gemini-1.5-flash"
 SITE_URL = "https://github.com/Syntax404errorrr/WormGPT"
 SITE_NAME = "WormGPT CLI"
