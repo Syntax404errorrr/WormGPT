@@ -1,6 +1,6 @@
 {
   "api_key": "YOUR_GEMINI_API_KEY",
-  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
-  "model": "gemini-3-flash-preview",
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+  "model": "gemini-1.5-flash",
   "language": "English"
 }
