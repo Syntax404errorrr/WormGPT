@@ -46,9 +46,9 @@ You can set your OpenRouter API key via the main menu:
 Or manually edit the config file:
 ```
 {
-  "api_key": "YOUR_API_KEY_HERE",
-  "base_url": "https://api.deepseek.com",
-  "model": "deepseek-chat",
+  "api_key": "YOUR_GEMINI_API_KEY",
+  "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+  "model": "gemini-3-flash-preview",
   "language": "English"
 }
 ```
@@ -64,7 +64,7 @@ python3 wormgpt.py
 ```
 [ Main Menu ]
 1. Language: English
-2. Model: deepseek-chat
+2. Model: gemini-3-flash-preview
 3. Set API Key
 4. Start Chat
 5. Exit
