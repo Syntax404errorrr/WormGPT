@@ -31,7 +31,7 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/hexsecteam/worm-gpt
+git clone https://github.com/Syntax404errorrr/WormGPT
 cd WormGPT
 python3 wormgpt.py
 ```
@@ -47,8 +47,8 @@ Or manually edit the config file:
 ```
 {
   "api_key": "YOUR_API_KEY_HERE",
-  "base_url": "https://openrouter.ai/api/v1",
-  "model": "deepseek/deepseek-chat-v3-0324:free",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-chat",
   "language": "English"
 }
 ```
@@ -64,7 +64,7 @@ python3 wormgpt.py
 ```
 [ Main Menu ]
 1. Language: English
-2. Model: deepseek/deepseek-chat-v3-0324:free
+2. Model: deepseek-chat
 3. Set API Key
 4. Start Chat
 5. Exit
